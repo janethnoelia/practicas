@@ -1,5 +1,3 @@
-
-
 /* ==== Google font ==== */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700,800|Roboto:400,500,700,900');
 /* --- pe-icon-7-stroke --- */
@@ -158,13 +156,13 @@ p.ultra {
 	background-color: rgba(0,0,0,.5);
 	padding: 20px;
 	display: inline-block;
-	color: #fff;
+	color: #4682B4;
 }
 
 .highlight-color {
 	padding: 2px 5px;
 	display: inline-block;
-	color: #fff;
+	color: #4682B4;
 }
 
 a {
@@ -204,11 +202,10 @@ blockquote strong {
 }
 
 
-
-
 .light {
     font-weight: 400;
 }
+
 
 /* Credit to bootsnipp.com for the css for the color graph */
 .colorgraph {
@@ -281,7 +278,7 @@ Navigation
 }
 
 .navbar.navbar-custom .navigation {
-	padding-bottom: 15px;
+	padding-bottom: 20px;
 
 }
 
@@ -293,7 +290,6 @@ Navigation
 }
 
 
-
 .navbar-brand {
     font-weight: 700;
 }
@@ -303,7 +299,7 @@ Navigation
 }
 
 .navbar.navbar-custom.navbar-fixed-top  {
-	background: #fff;
+	background: #ffffff;
 }
 
 .navbar-custom.top-nav-collapse .nav.navbar-nav {
@@ -1900,7 +1896,7 @@ a.btn:focus{
 	border:1px solid #e6e6e6;
 }
 
-.bgr .bg.bg1 {
+/* .bgr .bg.bg1 {
 	background: url(../img/bodybg/bg1.png) repeat left top;
 }	
 .bgr .bg.bg2 {
@@ -1929,7 +1925,7 @@ a.btn:focus{
 }	
 .bgr .bg.bg10 {
 	background: url(../img/bodybg/bg10.png) repeat left top;
-}	
+}	 */
 
 #accent_color{
 	color: #fff;
