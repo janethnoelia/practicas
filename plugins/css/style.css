@@ -445,6 +445,26 @@ Navigation
 	display:block;
 }
 
+/* contenedor y columna */
+
+.contenedor {
+	background-color:#ffffff;
+	
+	display:flex;
+	justify-content: space-around;
+	/* display: flex;
+	justify-content: space-between space-around; */
+
+}
+
+.culumna {
+	background-color: rgb(255, 255, 255);
+	padding: 10px;
+	margin: 0 5px;
+}
+
+
+
 /* loader */
 #page-loader { 
 	position: fixed; 
